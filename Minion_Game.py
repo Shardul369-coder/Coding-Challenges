@@ -22,5 +22,11 @@ def minion_game(string):
         print("Kevin", int(count_k))
 
 if __name__ == '__main__':
-    s = input()
+    s = input("Enter your option: ")
     minion_game(s)
+
+#Expected Output
+"""
+Enter your option: BANANA
+Stuart 12
+"""
