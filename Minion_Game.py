@@ -24,9 +24,3 @@ def minion_game(string):
 if __name__ == '__main__':
     s = input("Enter your option: ")
     minion_game(s)
-
-#Expected Output
-"""
-Enter your option: BANANA
-Stuart 12
-"""
